@@ -1,5 +1,5 @@
 # Computer-Graphics-Assignment-1
-Create a submarine using GLU and GLUT libraries in C/C++
+Create a movable submarine using GLU and GLUT libraries in C/C++
 
 To run make sure you linked the correct freeglut files 
 
